@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * 在这里我们使用RestController  （等待于 @Controller 和 @RequestBody）
+ * 在这里我们使用RestController  （等同于 @Controller 和 @RequestBody）
  */
 @RestController
 public class HelloController {
